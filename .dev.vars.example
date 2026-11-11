@@ -1,0 +1,3 @@
+GOOGLE_CALENDAR_ID="existing-calendar-id@group.calendar.google.com"
+GOOGLE_SERVICE_ACCOUNT_EMAIL="booking@your-project.iam.gserviceaccount.com"
+GOOGLE_PRIVATE_KEY="-----BEGIN PRIVATE KEY-----\nREPLACE_ME\n-----END PRIVATE KEY-----\n"
